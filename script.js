@@ -70,4 +70,3 @@ let badPromise = fetch("https://grandcircusco.github.io/demo-apis/wrong.json")
     // console.log(countPromise)});
 
 
-
